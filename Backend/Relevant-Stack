@@ -1,0 +1,18 @@
+Stack used on this project:
+
+API(s):
+Google Custom Search JSON API
+
+Frameworks:
+Flask
+
+Languages:
+Python
+    Dependencies:
+        OpenCV
+        Tensorflow
+        sklearn
+
+Styling:
+HTML
+CSS
